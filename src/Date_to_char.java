@@ -12,7 +12,7 @@ public class Date_to_char {
         System.out.println("当前时间通过yyyy-MM-dd HH:mm:ss SSS格式化后的输出："+str);
 
 
-
+//eeeee
         SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
         Date d2 =  new Date();
         String str1 = sdf1.format(d2);
